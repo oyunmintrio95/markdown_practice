@@ -1,1 +1,2 @@
-# markdown_practice
+# GAGOODA
+## 1. 주제

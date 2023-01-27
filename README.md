@@ -23,4 +23,7 @@
 4) 사용자
   폭 넓은 디자인과 1인 가구 혹은 소규모 가족의 라이프스타일에 맞는 가구를 찾고있는 사용자 층.
 5) 기획서
-  [GAGOODA 기획서 파일 첨부]()
+  [GAGOODA 기획서 파일 첨부](https://github.com/oyunmintrio95/markdown_practice/blob/main/doc/2%EC%A1%B0_%EC%87%BC%ED%95%91%EB%AA%B0_%EA%B8%B0%ED%9A%8D%EC%84%9C_2023_01_10.pdf "더 자세한 내용을 확인할 수 있습니다.")
+  
+6) WBS
+
